@@ -62,3 +62,4 @@ You can extend this to deploy a GitHub Pages site for static plots.
 ## License
 
 MIT — see `LICENSE`.
+
